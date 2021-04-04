@@ -1,0 +1,15 @@
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\ConsumindoWebApi.exe.config
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\ConsumindoWebApi.exe
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\ConsumindoWebApi.pdb
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csprojAssemblyReference.cache
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.Form1.resources
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.Properties.Resources.resources
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csproj.GenerateResource.cache
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csproj.CoreCompileInputs.cache
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.csproj.CopyComplete
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.exe
+C:\Users\genes\source\repos\ConsumindoWebApi\ConsumindoWebApi\obj\Debug\ConsumindoWebApi.pdb
